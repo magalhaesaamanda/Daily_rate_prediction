@@ -13,6 +13,7 @@ Instale as dependências:
       pip install -r requirements.txt
       
 Execute o arquivo run.py:
+
       python run.py
       
 O projeto irá treinar o modelo de previsão de taxa diária e, em seguida, fornecer uma interface para fazer previsões com base em entradas fornecidas pelo usuário.
